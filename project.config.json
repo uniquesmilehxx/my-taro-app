@@ -1,8 +1,8 @@
 {
-  "miniprogramRoot": "dist/",
+  "miniprogramRoot": "dist/weapp/",
   "projectname": "myTaroApp",
   "description": "this is a demo",
-  "appid": "touristappid",
+  "appid": "wxe8589a58f7dff3e9",
   "setting": {
     "urlCheck": true,
     "es6": false,
@@ -39,5 +39,6 @@
   "compileType": "miniprogram",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
+  "libVersion": "2.14.1",
   "condition": {}
 }
